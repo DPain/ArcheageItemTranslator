@@ -17,7 +17,7 @@ The program requires the Selenium and several other libraries which is included 
 
 ### Acknowledges ###
 	* Many thanks to whoever that made this website. I can't find out who made it.
-    http://http://archeagedatabase.net/
+    http://archeagedatabase.net/
 
 ### Who do I talk to? ###
 	* D_Pain - 
